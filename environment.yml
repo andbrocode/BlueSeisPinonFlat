@@ -1,0 +1,17 @@
+name: bspf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - obspy
+  - scipy
+  - geopandas
+  - pygmt
+  - jupyter
+  - ipykernel
+  - tqdm
+  - pip
